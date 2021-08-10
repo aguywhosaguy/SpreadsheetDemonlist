@@ -12,4 +12,4 @@ It would be nice if you included a little note saying who made it :)
 
 ## How to use
 Once it loads, click the "Manage list" button at the top of the screen.
-![image of the manage list button](readmeimages/manage)
+![image of the manage list button](readmeimages/manage.png)
